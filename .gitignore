@@ -1,0 +1,12 @@
+# Abaikan file log
+*.log
+
+# Abaikan file sementara sistem
+*.tmp
+*.swp
+
+# Abaikan direktori node_modules
+node_modules/
+
+# Abaikan file konfigurasi pengguna lokal
+.env
